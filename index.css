@@ -1,0 +1,25 @@
+body{
+
+    margin-top:auto;
+}
+
+.text{
+    color: rgb(3, 32, 34);
+    background-color: antiquewhite;
+    width: 300px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid;
+    border-radius: 50px;
+
+    
+    padding: 20px;
+    
+}
+
+button{
+
+    background-color: brown;
+}
